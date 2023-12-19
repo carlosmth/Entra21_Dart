@@ -1,0 +1,23 @@
+{
+    "editor.colorDecorators": true,
+    "workbench.preferredHighContrastColorTheme": "Visual Studio Dark",
+    "workbench.preferredLightColorTheme": "Visual Studio Dark",
+    "search.decorations.colors": false,
+    "workbench.iconTheme": "vs-minimal",
+    "workbench.preferredDarkColorTheme": "Visual Studio Dark",
+    "scm.countBadge": "off",
+    "scm.providerCountBadge": "hidden",
+    "scm.diffDecorations": "none",
+    "git.decorations.enabled": false,
+    "git.countBadge": "off",
+    "search.decorations.badges": false,
+    "explorer.decorations.badges": false,
+    "outline.problems.badges": false,
+    "workbench.editor.decorations.badges": false,
+    "scm.diffDecorationsGutterAction": "none",
+    "scm.diffDecorationsGutterVisibility": "always",
+    "scm.diffDecorationsGutterWidth": 3,
+    "explorer.decorations.colors": false,
+    "workbench.editor.decorations.colors": false,
+    "diffEditor.experimental.showEmptyDecorations": false
+}

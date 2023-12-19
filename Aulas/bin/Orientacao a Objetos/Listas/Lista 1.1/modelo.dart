@@ -1,0 +1,3 @@
+class Modelo {
+  String? nome;
+}

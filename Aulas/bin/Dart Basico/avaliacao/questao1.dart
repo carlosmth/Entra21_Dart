@@ -1,0 +1,1 @@
+// A diferença entre uma constante e uma variavel é que, a constante não permite alterar o valor durante a execução do algoritimo, já a variavél permite a alteração do valor que ela armazena.
